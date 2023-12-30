@@ -1,0 +1,1 @@
+clr =  make_color_hsv(0, 0, 255 - clamp(point_distance(Player.x, Player.y, x, y), 0, 255));

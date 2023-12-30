@@ -1,0 +1,9 @@
+- Door collision
+- BackPack GUI
+- Items
+- Monster (AI)
+- Sounds
+- Fix tile problem
+- Story
+- Mechanics
+- Multiple levels & level transitions
